@@ -1,0 +1,114 @@
+body{
+ 
+  background-image:url("/img/4.jpg");
+  background-size: cover;
+  
+    
+}
+h1{
+  background-color: white;
+  text-align: center;
+  margin-left: 500px;
+  margin-right: 500px;
+  
+}
+
+h2{
+  background-color:white;
+  text-align: center;
+  margin-right:350px ;
+  margin-left: 350px;
+}
+p{
+  color: #060606;
+  text-align: center;
+  font-size: 25px;
+}
+h3{
+  text-align: center;
+  font-size: 25px;
+}
+
+ul{
+  text-align: center;
+  font-size: 15px;
+}
+.ja{
+  text-align: center;
+  padding: 10px;
+  border-radius:  0px;
+  background-color: violet;
+  
+}
+.js{
+  text-align: center;
+  padding: 10px;
+  border-radius:  0px;
+  background-color: violet;
+
+
+
+}
+.jp{
+  text-align: center;
+  padding: 10px;
+  border-radius:  0px;
+  background-color: violet;
+  margin: 20px;
+}
+
+  
+
+
+nav {
+  background-color: white;
+  height: 60px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display:block;
+  padding: 20px;
+  line-height: 20px;
+  text-decoration: none;
+  color: #060606;
+}
+
+nav li a:hover {
+  background-color: violet;
+}
+
+
+.center {
+  margin-left:650px;
+  margin-right: 650px;
+}
+
+.jai{
+  margin-left: 620px;
+  
+}
+.aj button a{
+  text-align: center;
+ 
+  
+  
+ 
+}
+.aj{
+  text-decoration: none;
+  margin-left: 650PX;
+  padding: 20px;
+  background-color: rgb(234, 234, 120);
+ 
+  
+}
